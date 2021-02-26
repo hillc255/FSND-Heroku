@@ -24,6 +24,6 @@ htmlcov/
 .coverage.*
 *,cover
 
-# Direnv
+#  Direnv
 .envrc
 .direnv
